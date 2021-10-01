@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nihat3371
 - I'm at Ege University Advertising department. The coding was always a passion for me, and its still it is.
-- 🌱 I’m currently learning C++, Java, JavaScript Angular, Node.js, BootStrap.
+- 🌱 I’m currently learning React JS and Redux. Front-end and mobile mainly.
 - 💞️ I’m looking to collaborate on an internship. The starting my coding career with an intership opportuniy would be great for me! 
 - 📫 You can reach me by my e mail whic is = nihat3371@hotmail.com or Facebook = https://www.facebook.com/profile.php?id=100001861455818
