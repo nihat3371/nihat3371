@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nihat!
 - I'm at Ege University Advertising department. The coding was always a passion for me, and its still it is.
-- 🌱 I’m currently learning React, UI/UX developing. Front-end and mainly.
-- 💞️ I’m looking to collaborate on an internship. The starting my coding career with an intership opportuniy would be great for me! 
+- 🌱 I’m currently developing react projects.
 - 📫 You can reach me by my e mail which is = nihat3371@hotmail.com
