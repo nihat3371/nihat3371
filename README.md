@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Nihat!
-- I'm at Ege University Advertising department. The coding was always a passion for me, and its still it is.
-- 🌱 I’m currently developing react projects.
-- 📫 You can reach me by my e mail which is = nihat3371@hotmail.com
+- I'm at Ege University, coding for fun and challenge.
+- 🌱 I’m currently developing react/native projects.
+- 📫 You can reach me by my e-mail nihat3371@hotmail.com
